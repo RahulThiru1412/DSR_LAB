@@ -12,4 +12,4 @@ Opt
 plot(Length~BOD,data=mf, main='plot1')
 plot.new()
 plot.new()
-plot(Length 
+plot(Length)
