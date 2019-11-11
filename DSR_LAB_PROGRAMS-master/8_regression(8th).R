@@ -1,4 +1,5 @@
-#--------------This File Belongs to Naveen RJ-(1bm16CS055)----------------
+#RAHUL_THIRU_1BM16CS077
+
 count<-c(9,25,15,2,14,25,24,47)
 speed<-c(2,3,5,9,14,24,29,34)
 fw<-data.frame(count,speed)
