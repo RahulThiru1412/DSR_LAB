@@ -8,3 +8,4 @@ dataval
 #sepal.width
 
 plot(dataval$sepal.length,dataval$sepal.width)
+lines
