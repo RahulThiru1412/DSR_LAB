@@ -1,4 +1,5 @@
-#--------------This File Belongs to Naveen RJ-(1bm16CS055)----------------
+#RAHUL_THIRU_1BM16CS077
+
 path="C:/Users/jyothiramesh/Desktop/DSRLAB/DATA_SET"
 setwd(path)
 bankdata=read.delim("DT.csv")
