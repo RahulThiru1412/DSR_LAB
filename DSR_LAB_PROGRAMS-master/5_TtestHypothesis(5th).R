@@ -5,7 +5,8 @@
 # Perform two sample t-test to Infer whether the difference between the two means is 
 # statistically significant or not at  ??=0.05 (Use t-distribution table) ?
 #   Develop a suitable  R code to perform t-test  by using the above dataset.
-#--------------This File Belongs to Naveen RJ-(1bm16CS055)----------------
+#RAHUL_THIRU_1BM16CS077
+
 library(visualize)
 library(BSDA)
 rural<-c(3.1,2.9,2.8,3.0,2.7,3.1,2.6,2.8,2.9,3.0)
