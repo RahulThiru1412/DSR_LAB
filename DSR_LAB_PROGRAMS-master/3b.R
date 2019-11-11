@@ -1,4 +1,5 @@
-#--------------This File Belongs to Naveen RJ-(1bm16CS055)----------------
+#RAHUL_THIRU_1BM16CS077
+
 intnum=c(10,20,30)
 strv=c("Water","lemon","juice")
 numnum=c(23.3,44.5,89.0)
